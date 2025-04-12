@@ -1,4 +1,4 @@
-# Credit-Card-Financial-Weekly-Dashboard
+# Credit Card Financial Weekly Power BI Dashboard
 
 To develop a comprehensive credit
 card weekly dashboard that
