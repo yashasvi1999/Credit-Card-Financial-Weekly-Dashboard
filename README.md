@@ -8,4 +8,4 @@ enabling stakeholders to monitor
 and analyze credit card operations
 effectively
 
-[View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiODdiN2UwNjAtYTgzYS00YTM5LWI1ODAtZTQ2NDQ5ZmExYzQwIiwidCI6ImQxY2I3NTZlLWFjZDEtNGY2Yi1hYmJlLWZjZWFmMWY0ZmQ3NCJ9])
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdiN2UwNjAtYTgzYS00YTM5LWI1ODAtZTQ2NDQ5ZmExYzQwIiwidCI6ImQxY2I3NTZlLWFjZDEtNGY2Yi1hYmJlLWZjZWFmMWY0ZmQ3NCJ9)
